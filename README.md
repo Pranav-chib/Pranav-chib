@@ -1,6 +1,6 @@
 # Pranav-chib
 <h1 align="center">Hi 👋, I'm Pranav singh chib</h1>
-<h3 align="center">Research scholar wroking in the domain of computer vision and deep learning</h3>
+<h3 align="center">Research scholar working in the domain of computer vision and deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-chib&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-chib" /> </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranav-chib&show_icons=true&locale=en" alt="pranav-chib" /></p>
